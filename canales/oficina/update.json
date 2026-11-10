@@ -1,7 +1,0 @@
-{
-  "version": "0.9.88",
-  "zip": "app-0.9.88.zip",
-  "sha256": "bef3c2203b0b07997e4c6af3a55fbd92528f1cc1ef45f9e7f96c5c5d527aeb49",
-  "notas": "Arreglo estado de cuenta de proveedores: el abono que liquida una compra que ya tenia un abono parcial ahora si aparece en los movimientos (antes el saldo salia bien pero faltaba ese abono).",
-  "fecha": "2026-11-04T02:57:13.249Z"
-}
