@@ -1,7 +1,0 @@
-{
-  "version": "0.9.89",
-  "zip": "app-0.9.89.zip",
-  "sha256": "9c0f413124a33a965faa1185b6cfe87ed5cfcaaa26fbc400275f0e1e639e6b9e",
-  "notas": "1) Arreglo de saldos de clientes (se recalculan desde los movimientos al abrir y al sincronizar, para que cuadren con el estado de cuenta). 2) Nuevo boton 'Ocultar notas pagadas' en el estado de cuenta del cliente: oculta de la vista y de la impresion las notas 100% pagadas, solo en esta PC (no borra nada ni afecta Supabase), reversible, con Saldo anterior para que todo cuadre.",
-  "fecha": "2026-11-10T04:03:16.803Z"
-}
