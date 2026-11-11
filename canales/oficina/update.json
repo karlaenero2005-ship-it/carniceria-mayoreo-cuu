@@ -1,0 +1,7 @@
+{
+  "version": "0.9.90",
+  "zip": "app-0.9.90.zip",
+  "sha256": "c4f823168e49136d733e93377556d7db4a0965095f9c17db434d785bf5353adb",
+  "notas": "ARREGLO IMPORTANTE de sincronizacion: el recalculo de saldos ya NO reordena la lista de movimientos de credito (la nube indexa cada movimiento por su posicion, y reordenar desincronizaba los creditos entre Oficina y Carniceria). Ahora el orden se respeta y los creditos nuevos se sincronizan bien. Tambien se blindo el recalculo contra datos vacios para que una sync nunca se aborte. NUEVO: boton 'Ocultar compras pagadas' tambien en el estado de cuenta de PROVEEDORES (igual que clientes): oculta en pantalla y en impresion lo 100% pagado, solo en esta PC, reversible, con Saldo anterior para que cuadre.",
+  "fecha": "2026-11-11T00:39:04.062Z"
+}
